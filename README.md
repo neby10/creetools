@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+# Creetools App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Overview
 
-## Available Scripts
+Create a central hub for tools related to product creativity. Core features include the various tools for utilizing randomness and calculating of values.
 
-In the project directory, you can run:
+## Scope of Functionality
 
-### `npm start`
+- Allow users to generate random values
+- Allow users to calculate values based on data input
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Backend
 
-### `npm test`
+### Frontend
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Visit
 
-### `npm run build`
+## Project Notes
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Known Bugs
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Documentation Reference
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Component Structure
+- App
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Credits
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## NOW
+- Navigation Dropdown
+- Footer
+    - Warning to be careful with values especially ones that are calculated
+- Random Number
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## LATER
+- 
 
-## Learn More
+- Consistent styling for links, inputs, and text accross pages!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## ADDITIONAL FEATURES
+- Random
+    - First Names
+    - Last Names
+    - First or Last based on a culture
+    - Password
+    - Location
+    - Country
+    - Number
+        - Filters: Even / Odd, Prime
+    - D&D Dice Roller with animation
+    - Word
+    - Star Wars Character
+    - Animal
+    - Wikipedia Page
+    - YouTube Video
+    - Business Name Generator
+    - 1960s Baby Name Generator based on popular 60s names (larry, curly, moe, joe, frank, john, matthew)
+    - 1970s baby name generator...
+    - Hex color generator
+    - Date Idea Generator
+    - Story Generator
+    - Joke Generator
+- Calculator
+    - NUTRIENT CALCULATOR
+    - MEAL CALORIES CALCULATOR
+    - Tip Calculator
+    - ROI Calculator
+    - BMI Calculator
+    - Unit Conversion Calculator
+    - Monthly Mortgage Calculator
+    - Personal Finance Calculator
+    - Profit Margin Calculator
+    - Tax Calculator based on state (tax rate as of 2023)
+    - Retirement Calculator
+    - Loan Calculator
+    - Budget Calculator
